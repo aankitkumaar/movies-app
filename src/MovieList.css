@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+
+.project {
+    /* margin-top: 20px; */
+    color: black;
+}
+
+.mbody
+{
+    padding-left: 60px;
+    background-color: rgb(213, 222, 219);
+}
+
+.container {
+    display: inline-flex;
+    border: 1px black solid;
+    width: 280px;
+    height: 550px;
+    margin: 10px;
+    margin-top: 40px;
+    border-radius: 10px;
+    background-color: rgb(68, 11, 7);
+}
+
+.list {
+    list-style: none;
+}
+
+.image {
+    width: 280px;
+    height: 400px;
+    border-radius: 10px;
+}
+
+.info {
+    margin-left: 10px;
+}
